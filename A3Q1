@@ -1,0 +1,10 @@
+# Write a Python function to sum all the numbers in a list.
+
+
+
+sample_list =  []
+def add(sample_list):
+    print("the fuction of all sum is : ",sum(sample_list))
+
+add((8,2,3,0,7))
+
